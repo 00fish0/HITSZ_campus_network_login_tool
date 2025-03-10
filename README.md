@@ -16,5 +16,5 @@
 * 运行以下命令
 
   ```
-  $ python main.py
+  $ make run
   ```
